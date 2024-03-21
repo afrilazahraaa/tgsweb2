@@ -1,0 +1,26 @@
+p {
+    background-color:yellow;
+    color: aqua;
+}
+
+button {
+    background-color: chocolate;
+}
+
+.button {
+    padding: 10px;
+}
+
+.border {
+    border: 1px solid green;
+}
+
+#kirim {
+    background-color: blue;
+}
+
+span {
+    padding: 30px;
+    border: 1px solid red;
+    margin: 10px;
+}
